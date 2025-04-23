@@ -7,7 +7,6 @@
 # 🌸 Anime Explorer — Laravel + RapidAPI (MyAnimeList)
 
 [![Laravel](https://img.shields.io/badge/Laravel-11.x-red.svg)](https://laravel.com)
-[![License](https://img.shields.io/github/license/gioezzy/anime-explorer.svg)](LICENSE)
 [![MyAnimeList API](https://img.shields.io/badge/API-MyAnimeList-blue.svg)](https://rapidapi.com/pyuser/api/myanimelist-api1)
 
 Anime Explorer adalah aplikasi web berbasis Laravel yang mengkonsumsi MyAnimeList API (via RapidAPI) untuk menampilkan informasi anime populer, musiman, dan rekomendasi secara real-time. UI responsif, data diambil langsung dari API, dan ditampilkan menggunakan DataTables.
